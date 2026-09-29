@@ -1,0 +1,6 @@
+{
+  "name": "Sales & Investment Management",
+  "description": "Simple, fast, responsive Sales & Investment Management web app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
